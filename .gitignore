@@ -3,3 +3,8 @@ target/
 *.iml
 .vscode/
 .DS_Store
+target/
+.idea/
+out/
+*.iml
+.DS_Store
